@@ -1,0 +1,95 @@
+{
+    "parlamentares": [
+      {
+        "id": 287,
+        "nome_parlamentar": "AFFONSO CANDIDO",
+        "fotografia_cropped": "/media/sapl/public/parlamentar/287/affonso_candido_5UCudRd.jpg.128x128_q85_box-1135%2C0%2C2851%2C1716_crop_detail.jpg",
+        "fotografia": "https://sapl.al.ro.leg.br/media/sapl/public/parlamentar/287/affonso_candido_5UCudRd.jpg",
+        "ativo": true,
+        "partido": "PL",
+        "titular": "Sim"
+      },
+      {
+        "id": 277,
+        "nome_parlamentar": "ALAN QUEIROZ",
+        "fotografia_cropped": "/media/sapl/public/parlamentar/277/alan_queiroz.jpg.128x128_q85_box-1017%2C0%2C2716%2C1700_crop_detail.jpg",
+        "fotografia": "https://sapl.al.ro.leg.br/media/sapl/public/parlamentar/277/alan_queiroz.jpg",
+        "ativo": true,
+        "partido": "PODE",
+        "titular": "Sim"
+      },
+      {
+        "id": 256,
+        "nome_parlamentar": "ALEX REDANO",
+        "fotografia_cropped": "/media/sapl/public/parlamentar/256/alex_redano_yVjNj9u.jpg.128x128_q85_box-998%2C0%2C2686%2C1690_crop_detail.jpg",
+        "fotografia": "https://sapl.al.ro.leg.br/media/sapl/public/parlamentar/256/alex_redano_yVjNj9u.jpg",
+        "ativo": true,
+        "partido": "REPUBLICANOS",
+        "titular": "Sim"
+      },
+      {
+        "id": 288,
+        "nome_parlamentar": "CÁSSIO GOIS",
+        "fotografia_cropped": "/media/sapl/public/parlamentar/288/cassio_gois_2kTftRw.jpg.128x128_q85_box-1037%2C0%2C2569%2C1535_crop_detail.jpg",
+        "fotografia": "https://sapl.al.ro.leg.br/media/sapl/public/parlamentar/288/cassio_gois_2kTftRw.jpg",
+        "ativo": true,
+        "partido": "PSD",
+        "titular": "Sim"
+      },
+      {
+        "id": 260,
+        "nome_parlamentar": "CIRONE DEIRÓ",
+        "fotografia_cropped": "/media/sapl/public/parlamentar/260/cirone_UWsPG9T.jpg.128x128_q85_box-92%2C17%2C716%2C641_crop_detail.jpg",
+        "fotografia": "https://sapl.al.ro.leg.br/media/sapl/public/parlamentar/260/cirone_UWsPG9T.jpg",
+        "ativo": true,
+        "partido": "UNIÃO BRASIL",
+        "titular": "Sim"
+      },
+      {
+        "id": 289,
+        "nome_parlamentar": "CLÁUDIA DE JESUS",
+        "fotografia_cropped": "/media/sapl/public/parlamentar/289/claudia_de_jesus.jpeg.128x128_q85_box-30%2C205%2C854%2C1028_crop_detail.jpg",
+        "fotografia": "https://sapl.al.ro.leg.br/media/sapl/public/parlamentar/289/claudia_de_jesus.jpeg",
+        "ativo": true,
+        "partido": "PT",
+        "titular": "Sim"
+      },
+      {
+        "id": 291,
+        "nome_parlamentar": "DELEGADO CAMARGO",
+        "fotografia_cropped": "/media/sapl/public/parlamentar/291/delegado_rodrigo_camargo.jpg.128x128_q85_box-1080%2C0%2C2552%2C1469_crop_detail.jpg",
+        "fotografia": "https://sapl.al.ro.leg.br/media/sapl/public/parlamentar/291/delegado_rodrigo_camargo.jpg",
+        "ativo": true,
+        "partido": "REPUBLICANOS",
+        "titular": "Sim"
+      },
+      {
+        "id": 290,
+        "nome_parlamentar": "DELEGADO LUCAS",
+        "fotografia_cropped": "/media/sapl/public/parlamentar/290/delegado_lucas_torres.jpg.128x128_q85_box-965%2C12%2C2368%2C1416_crop_detail.jpg",
+        "fotografia": "https://sapl.al.ro.leg.br/media/sapl/public/parlamentar/290/delegado_lucas_torres.jpg",
+        "ativo": true,
+        "partido": "PP",
+        "titular": "Sim"
+      },
+      {
+        "id": 293,
+        "nome_parlamentar": "Dra. TAÍSSA",
+        "fotografia_cropped": "/media/sapl/public/parlamentar/293/dra_taissa.jpg.128x128_q85_box-1261%2C12%2C2685%2C1434_crop_detail.jpg",
+        "fotografia": "https://sapl.al.ro.leg.br/media/sapl/public/parlamentar/293/dra_taissa.jpg",
+        "ativo": true,
+        "partido": "PODE",
+        "titular": "Sim"
+      },
+      {
+        "id": 294,
+        "nome_parlamentar": "EDEVALDO NEVES",
+        "fotografia_cropped": "/media/sapl/public/parlamentar/294/edevaldo_neves_1P019Y7.jpg.128x128_q85_box-1029%2C69%2C2498%2C1537_crop_detail.jpg",
+        "fotografia": "https://sapl.al.ro.leg.br/media/sapl/public/parlamentar/294/edevaldo_neves_1P019Y7.jpg",
+        "ativo": true,
+        "partido": "PRD",
+        "titular": "Sim"
+      }
+    ]
+  }
+  
