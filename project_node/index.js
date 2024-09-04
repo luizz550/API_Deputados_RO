@@ -47,7 +47,7 @@ app.get('/api/parlamentares/:id', (req, res) => {
 });
 
 // Altere para usar o IP local da sua máquina
-const ip = '192.168.3.35'; // Substitua pelo IP da sua máquina local
+const ip = '192.168.100.55'; // Substitua pelo IP da sua máquina local
 app.listen(port, ip, () => {
   console.log(`Servidor rodando em http://${ip}:${port}/api/parlamentares`);
 });

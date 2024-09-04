@@ -1,123 +1,595 @@
 {
-    "parlamentares_detalhes": [
-      {
-        "id": 287,
-        "nome_parlamentar": "Affonso Candido",
-        "nome_completo": "Affonso Antonio Candido",
-        "fotografia": "https://sapl.al.ro.leg.br/media/sapl/public/parlamentar/287/affonso_candido_5UCudRd.jpg",
-        "partido": "PL",
-        "biografia": "Affonso Cândido tem como propósito trabalhar em prol dos rondonienses Deputado tem como pilares a defesa da saúde, infraestrutura, segurança e agricultura familiar. Affonso Cândido (PL) nasceu em Ji-Paraná no dia 19 de julho em 1990.  Neto de Toninho da Mabel, empresário que ajudou no desenvolvimento econômico de Rondônia desde os anos de 1980. Graduado em Direito, disputou pela primeira vez um cargo eletivo em 2012 e se elegeu como o vereador aos 22 anos, em Ji-Paraná. Foi vereador por dois mandatos e se tornou o mais jovem presidente de Câmara Municipal do Estado de Rondônia, atuando por dois Biênios consecutivos. Atuou como prefeito de Ji-Paraná no ano de 2020. Por 96 dias mostrou capacidade de liderança e gestão. Em sua avaliação, conseguiu dar uma cara nova para a cidade no quesito infraestrutura, com asfaltamento, recuperação de estradas rurais, e a arborização e limpeza de ruas e bairros. Na área da saúde enfrentou um dos picos da pandemia mantendo o comércio aberto, abriu 10 leitos de UTI, fez a aquisição de  ambulâncias, fez convênio com clínicas particulares para agilidade nos diagnósticos por meio de tomografias computadorizadas, e fez a montagem de uma usina de oxigênio. Em 2023, assume o seu primeiro mandato no legislativo estadual com 13.665 votos. De acordo com Affonso, seu objetivo é trabalhar pela melhoria da Saúde, infraestrutura, segurança e agricultura familiar do estado de Rondônia. O deputado é casado e tem uma filha..",
-        "contatos": {
-          "email": "gabdepaffonsocandido@ale.ro.gov.br",
-          "telefone": "(99) 99999-9999"
-        },
-        "rede": {
-          "facebook": "https://www.facebook.com/AffonsoCandidoOficial",
-          "instagram": "https://www.instagram.com/affonsocandido"
-        },
-        "ultimas_noticias": [
-          {
-            "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/aa2874ba345a4585a85d1d774a2cef9c.jpg",
-            "data": "13/08/2024",
-            "descricao": "Affonso Cândido apresenta projeto de lei para auxiliar no licenciamento de empresas"
-          },
-          {
-            "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/e14ca9a132fa45ed81ba160b23f9fbff.jpg",
-            "data": "28/06/2024",
-            "descricao": "Affonso Cândido destina R$ 150 mil para o Projeto Remadas que Transformam"
-          },
-          {
-            "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/e16055dc79bc4069bab91fde50807e12.jpg",
-            "data": "13/06/2024",
-            "descricao": "Affonso Cândido participa da entrega de calcário à Aprodol 8, em Ji-Paraná"
-          },
-          {
-            "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/c1521d74d29d44899bed069f100c0def.jpg",
-            "data": "10/06/2024",
-            "descricao": "Affonso Cândido participa da entrega de equipamentos para agricultores em Alvorada do Oeste"
-          },
-          {
-            "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/77db11d60fa24523a73e18fce38b98fb.jpg",
-            "data": "07/06/2024",
-            "descricao": "Affonso Cândido faz entrega de voto de louvor à Igreja Assembleia de Deus de Ji-Paraná"
-          },
-          {
-            "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/228e311c102e4c4995809fb58118f7ff.jpg",
-            "data": "03/06/2024",
-            "descricao": "Deputado Affonso Cândido apresentará projeto que torna RRSI permanente em Ji-Paraná"
-          },
-          {
-            "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/1849812169264c24baa2a7e3e3567b69.jpg",
-            "data": "23/05/2024",
-            "descricao": "Na tribuna, parlamentares destacam contribuições da Alero para a Rondônia Rural Show Internacional"
-          },
-          {
-            "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/ba275dcb1bcf41e7a4fa61e8c883a83b.jpg",
-            "data": "23/05/2024",
-            "descricao": "Affonso Cândido recebe título de Cidadão Ji-Paranaense"
-          }
-        ]
-        
+  "parlamentares_detalhes": [
+    {
+      "id": 287,
+      "nome_parlamentar": "Affonso Candido",
+      "nome_completo": "Affonso Antonio Candido",
+      "fotografia": "https://sapl.al.ro.leg.br/media/sapl/public/parlamentar/287/affonso_candido_5UCudRd.jpg",
+      "partido": "PL",
+      "biografia": "Affonso Cândido tem como propósito trabalhar em prol dos rondonienses Deputado tem como pilares a defesa da saúde, infraestrutura, segurança e agricultura familiar. Affonso Cândido (PL) nasceu em Ji-Paraná no dia 19 de julho em 1990.  Neto de Toninho da Mabel, empresário que ajudou no desenvolvimento econômico de Rondônia desde os anos de 1980. Graduado em Direito, disputou pela primeira vez um cargo eletivo em 2012 e se elegeu como o vereador aos 22 anos, em Ji-Paraná. Foi vereador por dois mandatos e se tornou o mais jovem presidente de Câmara Municipal do Estado de Rondônia, atuando por dois Biênios consecutivos. Atuou como prefeito de Ji-Paraná no ano de 2020. Por 96 dias mostrou capacidade de liderança e gestão. Em sua avaliação, conseguiu dar uma cara nova para a cidade no quesito infraestrutura, com asfaltamento, recuperação de estradas rurais, e a arborização e limpeza de ruas e bairros. Na área da saúde enfrentou um dos picos da pandemia mantendo o comércio aberto, abriu 10 leitos de UTI, fez a aquisição de  ambulâncias, fez convênio com clínicas particulares para agilidade nos diagnósticos por meio de tomografias computadorizadas, e fez a montagem de uma usina de oxigênio. Em 2023, assume o seu primeiro mandato no legislativo estadual com 13.665 votos. De acordo com Affonso, seu objetivo é trabalhar pela melhoria da Saúde, infraestrutura, segurança e agricultura familiar do estado de Rondônia. O deputado é casado e tem uma filha.",
+      "contatos": {
+        "email": "gabdepaffonsocandido@ale.ro.gov.br",
+        "telefone": ""
       },
-      {
-        "id": 277,
-        "nome_parlamentar": "Affonso Candido",
-        "nome_completo": "Affonso Antonio Candido",
-        "fotografia": "https://sapl.al.ro.leg.br/media/sapl/public/parlamentar/287/affonso_candido_5UCudRd.jpg",
-        "partido": "PL",
-        "biografia": "Affonso Cândido tem como propósito trabalhar em prol dos rondonienses Deputado tem como pilares a defesa da saúde, infraestrutura, segurança e agricultura familiar. Affonso Cândido (PL) nasceu em Ji-Paraná no dia 19 de julho em 1990.  Neto de Toninho da Mabel, empresário que ajudou no desenvolvimento econômico de Rondônia desde os anos de 1980. Graduado em Direito, disputou pela primeira vez um cargo eletivo em 2012 e se elegeu como o vereador aos 22 anos, em Ji-Paraná. Foi vereador por dois mandatos e se tornou o mais jovem presidente de Câmara Municipal do Estado de Rondônia, atuando por dois Biênios consecutivos. Atuou como prefeito de Ji-Paraná no ano de 2020. Por 96 dias mostrou capacidade de liderança e gestão. Em sua avaliação, conseguiu dar uma cara nova para a cidade no quesito infraestrutura, com asfaltamento, recuperação de estradas rurais, e a arborização e limpeza de ruas e bairros. Na área da saúde enfrentou um dos picos da pandemia mantendo o comércio aberto, abriu 10 leitos de UTI, fez a aquisição de  ambulâncias, fez convênio com clínicas particulares para agilidade nos diagnósticos por meio de tomografias computadorizadas, e fez a montagem de uma usina de oxigênio. Em 2023, assume o seu primeiro mandato no legislativo estadual com 13.665 votos. De acordo com Affonso, seu objetivo é trabalhar pela melhoria da Saúde, infraestrutura, segurança e agricultura familiar do estado de Rondônia. O deputado é casado e tem uma filha..",
-        "contatos": {
-          "email": "gabdepaffonsocandido@ale.ro.gov.br",
-          "telefone": "(99) 99999-9999"
+      "rede": {
+        "facebook": "https://www.facebook.com/AffonsoCandidoOficial",
+        "instagram": "https://www.instagram.com/affonsocandido"
+      },
+      "ultimas_noticias": [
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/aa2874ba345a4585a85d1d774a2cef9c.jpg",
+          "data": "13/08/2024",
+          "descricao": "Affonso Cândido apresenta projeto de lei para auxiliar no licenciamento de empresas"
         },
-        "rede": {
-          "facebook": "https://www.facebook.com/AffonsoCandidoOficial",
-          "instagram": "https://www.instagram.com/affonsocandido"
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/e14ca9a132fa45ed81ba160b23f9fbff.jpg",
+          "data": "28/06/2024",
+          "descricao": "Affonso Cândido destina R$ 150 mil para o Projeto Remadas que Transformam"
         },
-        "ultimas_noticias": [
-          {
-            "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/aa2874ba345a4585a85d1d774a2cef9c.jpg",
-            "data": "13/08/2024",
-            "descricao": "Affonso Cândido apresenta projeto de lei para auxiliar no licenciamento de empresas"
-          },
-          {
-            "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/e14ca9a132fa45ed81ba160b23f9fbff.jpg",
-            "data": "28/06/2024",
-            "descricao": "Affonso Cândido destina R$ 150 mil para o Projeto Remadas que Transformam"
-          },
-          {
-            "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/e16055dc79bc4069bab91fde50807e12.jpg",
-            "data": "13/06/2024",
-            "descricao": "Affonso Cândido participa da entrega de calcário à Aprodol 8, em Ji-Paraná"
-          },
-          {
-            "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/c1521d74d29d44899bed069f100c0def.jpg",
-            "data": "10/06/2024",
-            "descricao": "Affonso Cândido participa da entrega de equipamentos para agricultores em Alvorada do Oeste"
-          },
-          {
-            "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/77db11d60fa24523a73e18fce38b98fb.jpg",
-            "data": "07/06/2024",
-            "descricao": "Affonso Cândido faz entrega de voto de louvor à Igreja Assembleia de Deus de Ji-Paraná"
-          },
-          {
-            "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/228e311c102e4c4995809fb58118f7ff.jpg",
-            "data": "03/06/2024",
-            "descricao": "Deputado Affonso Cândido apresentará projeto que torna RRSI permanente em Ji-Paraná"
-          },
-          {
-            "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/1849812169264c24baa2a7e3e3567b69.jpg",
-            "data": "23/05/2024",
-            "descricao": "Na tribuna, parlamentares destacam contribuições da Alero para a Rondônia Rural Show Internacional"
-          },
-          {
-            "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/ba275dcb1bcf41e7a4fa61e8c883a83b.jpg",
-            "data": "23/05/2024",
-            "descricao": "Affonso Cândido recebe título de Cidadão Ji-Paranaense"
-          }
-        ]
-        
-      }
-    ]
-  }
-  
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/e16055dc79bc4069bab91fde50807e12.jpg",
+          "data": "13/06/2024",
+          "descricao": "Affonso Cândido participa da entrega de calcário à Aprodol 8, em Ji-Paraná"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/c1521d74d29d44899bed069f100c0def.jpg",
+          "data": "10/06/2024",
+          "descricao": "Affonso Cândido participa da entrega de equipamentos para agricultores em Alvorada do Oeste"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/77db11d60fa24523a73e18fce38b98fb.jpg",
+          "data": "07/06/2024",
+          "descricao": "Affonso Cândido faz entrega de voto de louvor à Igreja Assembleia de Deus de Ji-Paraná"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/228e311c102e4c4995809fb58118f7ff.jpg",
+          "data": "03/06/2024",
+          "descricao": "Deputado Affonso Cândido apresentará projeto que torna RRSI permanente em Ji-Paraná"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/1849812169264c24baa2a7e3e3567b69.jpg",
+          "data": "23/05/2024",
+          "descricao": "Na tribuna, parlamentares destacam contribuições da Alero para a Rondônia Rural Show Internacional"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/ba275dcb1bcf41e7a4fa61e8c883a83b.jpg",
+          "data": "23/05/2024",
+          "descricao": "Affonso Cândido recebe título de Cidadão Ji-Paranaense"
+        }
+      ]
+      
+    }
+    ,
+    {
+      "id": 277,
+      "nome_parlamentar": "Alan Queiroz",
+      "nome_completo": "Alan Kuelson Queiroz Feder",
+      "fotografia": "https://www.al.ro.leg.br/media/avatar_parlamentar/alan_queiroz.jpg.200x200_q100_crop.jpg",
+      "partido": "PODEMOS",
+      "biografia": "Alan Queiroz, é natural de Porto Velho, Estado de Rondônia, filho de Militino Feder e Chaguinha Queiroz. Casado. Pai de 3 filhos. Vereador há 4 mandatos e servidor público municipal onde exerce a função de Cirurgião Dentista.",
+      "contatos": {
+        "email": "gabdepalanqueiroz@ale.ro.gov.br",
+        "telefone": "(69) 3218-3661"
+      },
+      "rede": {
+        "facebook": "",
+        "instagram": "https://www.instagram.com/dr.alanqueiroz"
+      },
+      "ultimas_noticias": [
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/c0a15e5a915f4714a95918d4b05d4d5a.jpg",
+          "data": "21/08/2024",
+          "descricao": "Alan Queiroz solicita informações sobre o sistema de regulação de leitos e cirurgias ortopédicas no Hospital João Paulo II"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/ddc3675a90a34eb8856dd85e2018ebfc.jpg",
+          "data": "21/08/2024",
+          "descricao": "Alan Queiroz investe mais de R$ 1 milhão no fortalecimento da cultura e do folclore rondoniense"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/16829429aef1405ead37a4eeb1b4662d.jpg",
+          "data": "20/08/2024",
+          "descricao": "Alan Queiroz solicita obras de recuperação da RO-464, via que liga o município de Theobroma ao distrito de Palmares"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/60b3c22d68de42e7820f46182d4bf7f9.jpg",
+          "data": "19/08/2024",
+          "descricao": "Alan Queiroz solicita recuperação de ponte sobre o Rio Jatuarana, próximo ao distrito de Rio Pardo"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/9117fdce67db42acbb235c48405f4b79.jpg",
+          "data": "19/08/2024",
+          "descricao": "Solicitação do deputado Alan Queiroz leva poda de árvores à comunidade Terra Santa"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/a7d08faaf6d4438abce043f0344c07ed.jpg",
+          "data": "19/08/2024",
+          "descricao": "Solicitação do deputado Alan Queiroz leva energia elétrica ao assentamento Margarida Alves 2, em Nova União"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/5469691dd8e043578a968d464ca7d6ac.jpeg",
+          "data": "12/08/2024",
+          "descricao": "Alan Queiroz solicita pavimentação, manutenção e recuperação da RO 010"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/dc8e2d62b9784613869e171b9c3c2aa7.jpg",
+          "data": "12/08/2024",
+          "descricao": "Alan Queiroz destina emenda de R$ 300 mil para reforma da Unidade Básica de Saúde em Governador Jorge Teixeira"
+      
+        }
+      ]  
+    }
+    ,
+    {
+      "id": 256,
+      "nome_parlamentar": "Alex Redano",
+      "nome_completo": "Alex Mendonça Alves",
+      "fotografia": "https://www.al.ro.leg.br/media/avatar_parlamentar/alex_redano_yVjNj9u.jpg.200x200_q100_crop.jpg",
+      "partido": "REPUBLICANOS",
+      "biografia": "Natural de Ramilândia, Paraná, Alex Mendonça Alves (Republicanos) adotou Alex Redano como nome político. Filho de Jaime Mendonça Alves e Mercia Redano, ele passou a utilizar um sobrenome da mãe quando começou a ministrar cursos de modelo e manequim e a proferir palestras. Buscou capacitação e trabalhou 12 anos com cursos de modelos, palestras, bailes, shows de acrobacia de motos e outros eventos. Levou diversos artistas para Ariquemes, como Sabrina Satto e Bruno Gagliasso. Isso lhe garantiu popularidade em toda a região de Ariquemes, tanto que em 2000 se envolveu na política, e em 2004 se candidatou a vereador, sendo eleito com 600 votos, foi o mais votado de sua coligação. Durante dois anos ele tentou conciliar a tarefa de vereador com a de promotor de eventos, mas não foi possível. Assim, passou a se dedicar inteiramente à política, trabalhando, especialmente, com projetos sociais. Em 2008 foi reeleito, com 900 votos. Em 2012, mais uma reeleição para vereador, com 1.312 votos. Com a credibilidade em alta, em 2014 se elegeu deputado estadual com 9.272 votos. Ocupou o cargo de terceiro secretário da Mesa Diretora da Assembléia Legislativa, coisa rara em se tratando de deputado que estava no primeiro mandato. Alex Redano levou muitos recursos para Ariquemes e a grande região do Vale do Jamari. Em 2019 foi reeleito com 13.233 votos e na sequência da posse, foi eleito, com 24 votos para ocupar o mandato de Presidente da Assembleia Legislativa no biênio 2021/2022. Uma grande responsabilidade e uma grande conquista como político.",
+      "contatos": {
+        "email": "assessoriaredano@gmail.com",
+        "telefone": ""
+      },
+      "rede": {
+        "facebook": "",
+        "instagram": "https://www.instagram.com/alex.redano"
+      },
+      "ultimas_noticias": [
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/c525b55d98764718b13b848a48e57332.JPG",
+          "data": "30/07/2024",
+          "descricao": "Deputado Alex Redano enaltece papel da Agroari dentro da Expoari"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/c1c45507f87f4648bea046ad952f934e.jpg",
+          "data": "28/07/2024",
+          "descricao": "Deputado Alex Redano prestigia abertura da Agroari"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/525c8f95f48f4d0e9cfac78bd97eefd9.jpg",
+          "data": "26/07/2024",
+          "descricao": "Alex Redano assegura apoio aos municípios de Nova Brasilândia D'Oeste e Pimenta Bueno"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/b3a305cb8c7e4be5969bd16a061a38d2.jpg",
+          "data": "22/07/2024",
+          "descricao": "Recurso de Alex Redano assegura implante contraceptivo para mulheres de Monte Negro e São Francisco do Guaporé"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/f314bf6d411d4450902826f2a592347d.jpg",
+          "data": "17/07/2024",
+          "descricao": "Alex Redano anuncia que recurso para recuperação de estradas está na conta da prefeitura de Nova Mamoré"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/dc634a8f4f654faebd8c4b00701bf3b7.jpg",
+          "data": "10/07/2024",
+          "descricao": "Alex Redano vistoria reformas e melhorias asseguradas por emendas em Vale do Anari"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/3b6c757f003246c19d33ca3e11064ce7.jpg",
+          "data": "09/07/2024",
+          "descricao": "Alex Redano entrega implementos ao homem do campo e reforça compromisso em Theobroma"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/9c3b043e48e6454e93cd69d57a6e441f.jpg",
+          "data": "08/07/2024",
+          "descricao": "Deputado Alex Redano vistoria obras e concede entrevista em Buritis"
+        }
+      ]
+    }
+    ,
+    {
+      "id": 288,
+      "nome_parlamentar": "Cássio Gois",
+      "nome_completo": "José Cassiano Gois de Freitas",
+      "fotografia": "https://www.al.ro.leg.br/media/avatar_parlamentar/cassio_gois_2kTftRw.jpg.200x200_q100_crop.jpg",
+      "partido": "PSD",
+      "biografia": "José Cassiano Gois de Freitas, conhecido como Cássio Gois, tem 35 anos e é empresário, formado em Direito pela Universidade Federal de Rondônia. Natural de Cacoal, é casado há mais de 15 anos com Micalister Moreira e pai de três meninas: Maria Eduarda, Ana Luiza e Maria Alice. Foi eleito deputado estadual pelo município de Cacoal, obtendo a maior votação da história do município com 17.753 votos. Seu mandato é voltado para o coletivo, buscando ser parceiro de todos para construir uma Rondônia cada vez mais forte. Suas principais bandeiras são a saúde pública e a agricultura. Cássio Gois é reconhecido por sua habilidade em articulação política e sua dedicação à causa pública. A trajetória de Cássio Gois até a Assembleia Legislativa começou em 2014. Em 2016, foi candidato a vice-prefeito de Cacoal ao lado de Adailton Furia. Em 2018, participou ativamente do processo eleitoral estadual como coordenador de campanha e presidente de partido. Entre 2019 e 2020, foi servidor público na ALE, atuando como chefe de gabinete do então deputado estadual Adailton Furia. Já em 2020, concorreu novamente à Vice-Prefeitura de Cacoal, vencendo as eleições em conjunto com Adailton Furia. Em 2022, aceitou o desafio de candidatar-se a deputado estadual, sendo eleito com uma expressiva votação na região do café. Além de sua atuação política, Cássio Gois é conhecido por seu envolvimento em projetos sociais e comunitários, sempre buscando melhorias para a população de Cacoal e do estado de Rondônia. Seu compromisso com a transparência e a ética na política tem sido um diferencial em sua carreira, conquistando a confiança e o respeito de seus eleitores. Como deputado estadual, ele trabalha incansavelmente para trazer recursos e desenvolvimento para sua região, com uma visão focada no crescimento sustentável e na qualidade de vida dos cidadãos de todo o estado.",
+      "contatos": {
+        "email": "gabdepcassiogois@ale.ro.gov.br",
+        "telefone": "(69) 3218-3673"
+      },
+      "rede": {
+        "facebook": "",
+        "instagram": "https://www.instagram.com/cassio.gois"
+      },
+      "ultimas_noticias": [
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/b409cb659a87413aa3612ce70472a991.jpg",
+          "data": "23/08/2024",
+          "descricao": "Cássio Gois realiza o primeiro Rodeio Rural de Cacoal"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/4318db946d52466ca136e47ec0716268.jpg",
+          "data": "20/08/2024",
+          "descricao": "Eventos movimentam Alto Alegre dos Parecis e Ministro Andreazza com apoio de Cássio Gois"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/0bf55c8e46c14b04b3ba75169678ff98.jpg",
+          "data": "13/08/2024",
+          "descricao": "Cássio Gois investe R$ 100 mil para 10ª Exposição Agropecuária de Jardinópolis, em Castanheiras"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/35fed8a24bb240f4a654d6949707f665.jpg",
+          "data": "18/07/2024",
+          "descricao": "Cássio Gois destina R$ 150 mil para feira agropecuária de Espigão do Oeste"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/e5f07dfebf4343b39cdcd4f3993284e6.jpg",
+          "data": "10/07/2024",
+          "descricao": "Cássio Gois comemora sucesso da Cafecau e reitera compromisso com as próximas edições"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/bf674c8d831c4628bd7bd61e2b4f19e6.jpeg",
+          "data": "04/07/2024",
+          "descricao": "Cássio Gois aumenta investimento na Cafecau em Cacoal para R$ 200 mil em 2024"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/41b2b980b39f4b9bac9e78b4117c864c.jpg",
+          "data": "02/07/2024",
+          "descricao": "Deputado Cássio Gois impulsiona retorno do Motocross em Espigão D'Oeste"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/fb4d071e56364da682d8c61fcff3e6b0.jpg",
+          "data": "02/07/2024",
+          "descricao": "Deputado Cássio Gois parabeniza Ministro Andreazza pelo Prêmio Band Cidades"
+        }
+      ]
+    }
+    ,
+    {
+      "id": 260,
+      "nome_parlamentar": "Cirone Deiró",
+      "nome_completo": "Elcirone Moreira Deiró",
+      "fotografia": "https://www.al.ro.leg.br/media/avatar_parlamentar/Cirone_p1qOQdy.jpg.200x200_q100_crop.jpg",
+      "partido": "UNIÃO BRASIL",
+      "biografia": "Graduado em administração, pós-graduado em contabilidade e controladoria, ex-presidente da Associação Comercial e Industrial de Cacoal, ex-vice-prefeito e ex-secretário municipal de obras, Cirone Deiró se elegeu deputado estadual em 2018. Cirone Deiró chegou em Rondônia no ano de 1976, com 6 anos de idade. Na época a família Deiró fixou residência em Vilhena. Cirone é o mais velho dos seis filhos do casal Ozilton Ferreira Deiró e Jacirene Moreira Deiro. A exemplo de outros pioneiros, a família Deiró vivenciou muitas dificuldades para se estabelecer no então território de Rondônia. Desde muito pequeno, Cirone aprendeu com os pais a ter perseverança e acreditar na força do trabalho para vencer as adversidades da vida. Aos oito anos, passou a dividir a rotina da escola com a experiência de trabalhar como aprendiz na marcenaria do pai. Foi vendedor de picolé, entregador de jornal e office boy. Ainda adolescente passou a perseguir o sonho de se tornar empresário Desde então, todos seus esforços foram dedicados para a realização deste propósito. Sem nunca abandonar sua grande paixão: o futebol. Aos finais de semana, jogar bola no campo de terra com os amigos era a única opção de lazer acessível para o filho do marceneiro. Graduou-se em administração, fez pós graduação em contabilidade e controladoria. Aos 25 anos, tornou-se sócio do seu patrão, abrindo uma filial no município de Cacoal. Em 1995, casou-se com Noeli Deiró. O casal tem dois filhos que nasceram em Cacoal, onde construiu uma relação sólida de amizade e participação ativa nos eventos locais. Vínculos que foram fortalecidos pelo grande incentivo ao esporte e apoio aos atletas, além da contribuição em ações sociais da comunidade local. Em Cacoal, Cirone foi eleito presidente da Associação Comercial e Industrial, período em que realizou a Feira da Indústria de Comércio e tantas outras iniciativas para fomentar a economia da região. Em 2016, foi eleito vice-prefeito de Cacoal, e no ano seguinte, cumulativamente exerceu o cargo de secretário de obras do município. Na condição de vice-prefeito, Cirone apoiou e incentivou o trabalho da Agência Brasileira de Desenvolvimento Industrial-ABDI para determinar a Identidade Geográfica do nosso Café Robusta. Incentivou a criação da CAFERON Cafeicultores Associados da Região Mata de Rondônia que conta com a participação de Cacoal e outros 14 municípios. A iniciativa trouxe novas perspectivas para os cafeicultores e abriu novos mercados para o produto rondoniense. Cirone levou para a Assembleia Legislativa toda sua experiencia empresarial, da vida pública como vice-prefeito e secretário de obras de Cacoal. O trabalho pela instalação de novas indústrias e a geração de emprego e renda por meio da efetivação das políticas públicas, diversificação da produção agrícola e o fortalecimento das ações na área da saúde, educação, ação social, agricultura, meio ambiente e infraestrutura são algumas das bandeiras defendidas na Assembleia Legislativa. Para apoiar a agricultura familiar, o deputado Cirone priorizou a liberação de recursos para as associações rurais. A iniciativa buscou melhorar as condições de trabalho dos agricultores e gerar emprego e renda no campo. A liberação de recursos para o fortalecimento das associações dos agricultores garantiu a compra de secadores, máquinas de beneficiamento de café e implementos agrícolas para apoiar as atividades agrícolas dos produtores e suas famílias. O apoio e incentivo e apoio aos empreendedores e a instalação de novas indústrias e empresas também foram priorizados. A exemplo, da instalação da indústria Oleoplan no município de Cacoal com investimentos de mais de R$ 110 milhões garantiu a geração de mais de centenas de empregos diretos e indiretos. O desenvolvimento integrado e sustentável dos municípios rondonienses recebeu atenção especial com a liberação de mais de R$ 100 milhões para a construção de pontes, galerias, pavimentação asfáltica, recuperação das estradas rurais e execução de obras de drenagem, além da aquisição de implementos agrícolas. Incansável na defesa do setor produtivo rondoniense, Cirone foi interlocutor de pautas estratégicas para o desenvolvimento dos municípios e autor da proposta para a implantação da Central de Abastecimento de Rondônia. Na presidência da Comissão da Agricultura defendeu o fortalecimento da agricultura familiar e a distribuição de mudas de café clonal aos pequenos cafeicultores, além da retomada da lavoura de Cacau. O deputado Cirone também atuou fortemente na apresentação de leis que buscam melhorar a vida dos rondonienses. O deputado Cirone assumiu a defesa dos direitos das pessoas com deficiência e a inclusão dos alunos com deficiência nas escolas. Em busca de solução para os problemas de falta de mediadores pedagógicos e cuidadores nas escolas, Cirone solicitou ao Tribunal de Contas a realização de auditoria operacional. O resultado dessa auditoria operacional vai nortear as políticas do governo na implantação de medidas para oferecer profissionais que atendam os alunos com deficiência. Cirone apresentou proposta para criação da Superintendência das pessoas com deficiência. O projeto apresentado ao governador Marcos Rocha tem por finalidade melhorar a qualidade de vida das pessoas com deficiência e de suas famílias. A superintendência dos direitos das pessoas com deficiência deverá implantar, executar e monitorar ações que contribuam para a adequada condução do cumprimento da legislação federal e estadual no que diz respeito a garantia dos direitos das pessoas com deficiência. Conheça as Leis de autoria do deputado Cirone Deiró Lei 4.615/2019 que instituiu no calendário oficial do estado a Semana Estadual da Mãe Atípica, a ser realizada anualmente na terceira semana do mês de maio; Lei 4.991/2021 que ampliou o prazo de até cinco anos para laudo médico pericial que atesta o Transtorno do Espectro Autista-TEA; Lei 5344/22 que dispõe sobre a redução da carga horária dos Policiais Militares, responsáveis por pessoas com deficiência que requeiram atenção permanente; Lei 4.654/ 2019 que incluiu a “Caminhada Passos que Salvam” a ser realizada anualmente no último domingo do mês de fevereiro, no calendário oficial do estado. A Iniciativa busca aumentar a mobilização da sociedade e divulgar os sintomas que podem ajudar no diagnóstico precoce do câncer nas crianças ou adolescentes; Lei 4.538/2019 institui a Semana Estadual de Educação, Conscientização e Orientação sobre Fissura Labiopalatina, a ser realizada anualmente na última semana do mês de setembro; Lei 4.663/2019 que regulamenta a prática das vaquejadas e rodeios e assegura o bem-estar dos animais nas práticas desportivas consideradas manifestações culturais, no âmbito do Estado de Rondônia; Lei 4.605/2019 que concedeu o título ao município de Cacoal de Capital do Café; Lei 4.639/2019 que instituiu o Dia Municipal do Desbravador da Igreja Adventista do Sétimo Dia; Lei 5.256/22 que denomina de Rodovia do Café- José Emílio Paulista a Rodovia 486, entre os trechos que interligam o município de Cacoal a Espigão d’ Oeste; Lei 5.273/22 que dispõe sobre a concessão aos consultórios profissionais de saúde em trânsito (credenciados junto ao Detran) para a realização de exames de aptidão física e mental para condutores de processo de 1ª habilitação, adição de categoria e mudança de categoria, conforme medidas implementadas por meio do Decreto 24.919 /2019- durante a vigência do decreto de calamidade pública; Lei 5.280/22 que dispõe sobre a Política Estadual de Sustentabilidade da Aquicultura; Lei 5.149/21 declara de Utilidade Pública a Associação Beneficente Mulheres de Lenço do município de Rolim de Moura; Lei 5.276/22 que institui no Estado de Rondônia a obrigatoriedade da realização do Teste do Olhinho nos recém-nascidos em maternidades e serviços hospitalares para o diagnóstico de doenças oculares; Lei 4.944/21 que instituiu no calendário de eventos do Estado de Rondônia o “Dia Estadual de Luta das Pessoas com Deficiência”, a ser realizado no Dia 21 de setembro de cada ano; Lei 5.295/22 dispõe sobre a prorrogação de prazo de vigência do certificado de vistoria do Corpo de Bombeiros do Estado de Rondônia em decorrência da pandemia da Covid-19; A isenção de ICMS aos produtores rurais também foi defendida pelo deputado Cirone, que conseguiu junto a equipe do governador Marcos Rocha, a publicação do decreto nº 25.786/2021, que garantiu a suspensão da cobrança do Imposto sobre Circulação de Mercadorias e Serviços-ICMS das embalagens para produtos rurais. A aprovação do Refaz beneficiou o setor empresarial e produtivo.",
+      "contatos": {
+        "email": "gabdepcirone@ale.ro.gov.br",
+        "telefone": "(69) 3218-3617"
+      },
+      "rede": {
+        "facebook": "",
+        "instagram": "https://www.instagram.com/cironedeiro"
+      },
+      "ultimas_noticias": [
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/eaae9bc6f006477198e9098fec34fd7b.JPG",
+          "data": "20/08/2024",
+          "descricao": "Cirone Deiró cobra ações imediatas do DER para recuperação de rodovias em Rondônia"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/9617e00c14ca4e0f84c4012ccedf3d66.jpg",
+          "data": "20/08/2024",
+          "descricao": "Trabalho em conjunto fortalece município de Seringueiras"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/ab2a5df924584d98bc30f87999a06b38.JPG",
+          "data": "15/08/2024",
+          "descricao": "Trabalho de parceria fortalece município de Rolim de Moura"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/67faed6afc40492c8092d837bd60865c.jpg",
+          "data": "13/08/2024",
+          "descricao": "Trabalho de parceria garante recursos para Espigão do Oeste"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/ec58cfed190847608ab436f310550c92.jpg",
+          "data": "07/08/2024",
+          "descricao": "Cirone Deiró celebra os 41 anos da Constituição do Estado de Rondônia"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/0bf0a9464a1d4b9cb7158e0e96e4e2a6.JPG",
+          "data": "05/08/2024",
+          "descricao": "Lions Cacoal Centro tem nova diretoria"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/e8dc1783326e45c2adf9298037122d1d.jpg",
+          "data": "30/07/2024",
+          "descricao": "Cirone Deiró alerta sobre crise hídrica e necessidade de obras de infraestrutura em Espigão do Oeste"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/bdd806fc2e684d7e921a6be198f6f9ac.jpg",
+          "data": "29/07/2024",
+          "descricao": "Agricultores de Teixeirópolis recebem apoio de Cirone Deiró"
+        }
+      ]
+    }
+    ,
+    {
+      "id": 289,
+      "nome_parlamentar": "Cláudia de Jesus",
+      "nome_completo": "Cláudia Regina Abreu",
+      "fotografia": "https://www.al.ro.leg.br/media/avatar_parlamentar/claudia_zW8wb8s.jpg.200x200_q100_crop.jpg",
+      "partido": "PT",
+      "biografia": "VIDA PESSOAL - Cláudia Regina Abreu (Cláudia de Jesus) é natural de Loanda no Paraná. É filha de Maria do Carmo Abreu e Anselmo de Jesus Abreu que é ex-deputado federal, ex-secretário de agricultura do estado de Rondônia e ex-presidente da Agência de Defesa Sanitária Agrosilvopastoril (Idaron). A família migrou para Rondônia no ano de 1984. Em Ji-Paraná e fixaram residência na Linha 128 Setor Riachuelo, zona rural da cidade. É graduada em Administração, Pós-graduada em Gestão Pública. Filha de militante sindical e ativista político iniciou suas atividades desde infância acompanhando o pai no Movimento Sindical dos Trabalhadores e Trabalhadoras Rurais – MSTTR, nas Comunidades Eclesiais de Base da Igreja Católica - CEBES e no Partido dos Trabalhadores, nas mobilizações dos Movimentos Sociais, Marcha das Margaridas e Grito da Terra. Teve importante atuação nos três mandatos do ex-deputado federal Anselmo de Jesus. TRAJETÓRIA POLÍTICA - Em 2013 foi nomeada para o cargo de Secretária Municipal de Agricultura e Pecuária de Ji-Paraná. Nesse período implantou o “Porteira a Dentro” e o programa de distribuição de “Calcário para o campo”, para atender beneficiários da agricultura familiar. Contribuiu para a implantação e legalização de agroindústrias e realizou a reforma do Feirão do Produtor. A então, secretária coordenou a compra da produção do pequeno produtor através do programa Agricultura Familiar. Viabilizou para associações e agricultores indígenas e nãoindígenas mais de 500 equipamentos para o fortalecimento da agricultura familiar entre eles tratores, microtratores, barracas para feirantes, resfriadores de leite, equipamentos de agroindústrias e roçadeiras. Possibilitou a celebração de convênios com associações, cooperativa e sindicatos. Em 2016 foi eleita vereadora pelo Partido dos Trabalhadores em de Ji-Paraná. Foi quando pautou debates sociais importantes, fez propostas que influenciaram na vida da população, fiscalizou e denunciou e participou da comissão e inquérito da Câmara. ASSEMBLEIA LEGISLATIVA - Nas eleições de 2020, concorreu à prefeitura de Ji-Paraná. E em 2022 foi eleita deputada estadual de Rondônia com 8.845 votos distribuídos em todas as regiões do Estado. Uma vitória que aconteceu no mesmo ano que o Luiz Inácio Lula da Silva, foi eleito presidente do Brasil, pelo terceiro mandato (2023-2026). Na Assembleia Legislativa preside a Comissão de Saúde, Previdência e Assistência Social. Integra às Comissões de Agropecuária e Polícia Rural; Comissão de Defesa dos Direitos da Criança, Adolescente, da Mulher e do Idoso; Comissão de Habitação e Assuntos Municipais. Cláudia de Jesus é liderança política em um dos maiores colégios eleitorais do estado, ficha limpa, e sempre comprometida com os problemas sociais. Sempre atuou na defesa do setor produtivo primário, agricultura familiar, reforma agrária e na universalização da Assistência Técnica e Extensão Rural - ATER. Dialoga com os movimentos sociais, camponeses, onde também tem atuação.",
+      "contatos": {
+        "email": "gabdepclaudiadejesus@ale.ro.gov.br",
+        "telefone": ""
+      },
+      "rede": {
+        "facebook": "https://www.facebook.com/claudia.abreu.121",
+        "instagram": ""
+      },
+      "ultimas_noticias": [
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/0c6a7e610005424d8aecd5dda2689748.jpg",
+          "data": "23/08/2024",
+          "descricao": "Cláudia de Jesus destina R$ 100 mil para fortalecer agricultura familiar em Jaru"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/4102b1821db54ea8b83b5f224c18e92a.jpeg",
+          "data": "21/08/2024",
+          "descricao": "Cláudia de Jesus entrega R$ 200 mil em emendas para a saúde de Costa Marques"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/92166b64a4054ba99ff876b413f020b3.jpg",
+          "data": "12/08/2024",
+          "descricao": "Proposta de Cláudia de Jesus quer levar qualificação a mulheres ribeirinhas e indígenas"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/a85e7a1b0b844d4f91278df7430e310b.jpeg",
+          "data": "09/08/2024",
+          "descricao": "Associação Assistencial à Saúde São Daniel Comboni recebe emenda de Cláudia de Jesus"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/340de72537244084b3bdbb7259956091.jpg",
+          "data": "05/08/2024",
+          "descricao": "Cláudia de Jesus repassa emenda para o Lar do Idoso em Machadinho do Oeste"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/0cb652590e9e45da890b00af807239a7.JPG",
+          "data": "02/08/2024",
+          "descricao": "Cláudia de Jesus faz entrega de equipamentos agricolas em Alvorada do Oeste"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/6520d1f5f8f94a9cb71f659861e6aaf6.JPG",
+          "data": "01/08/2024",
+          "descricao": "DER atende pedido de Cláudia de Jesus para a recuperação da RO 257, ligando Ariquemes ao 5º BEC"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/aec323f2dcfc42b3b31a716cf77a30ae.JPG",
+          "data": "31/07/2024",
+          "descricao": "Indicação de Cláudia de Jesus sugere mutirões médicos para reduzir fila de espera"
+        }
+      ]
+    }
+    ,
+    {
+      "id": 291,
+      "nome_parlamentar": "Delegado Camargo",
+      "nome_completo": "Rodrigo Camargo Ribeiro Pinho",
+      "fotografia": "https://www.al.ro.leg.br/media/avatar_parlamentar/delegado_rodrigo_camargo.jpg.200x200_q100_crop.jpg",
+      "partido": "REPUBLICANOS",
+      "biografia": "Rodrigo Camargo Ribeiro Pinho, nascido em 24/02/1981 no município de Bagé, Estado do Rio Grande do Sul é Delegado da Polícia Civil de Rondônia desde 2011. Casado com a juíza de direito Dra. Larissa Camargo Pinho de Alencar é pai de quatro filhos. Oficial da reserva do Exército Brasileiro, advogado, foi procurador municipal, delegado regional e atualmente exerce o mandato de deputado estadual, eleito em 2022, já na sua primeira disputa eleitoral, com 11.804 votos. Tem como base eleitoral a cidade de Ariquemes, região do Vale do Jamari, onde foi o parlamentar mais votado. Delegado Camargo assumiu seu primeiro mandato eletivo com uma proposta inovadora de atuação, com a defesa de pautas conservadoras voltadas à família, educação inclusiva, não à ideologia de gênero, segurança pública efetiva e a defesa de liberdades. Na Assembleia Legislativa é Rodrigo Camargo é presidente da Comissão de Segurança Pública, vice-presidente da Comissão de Direito do Consumidor e membro titular da Comissão de Constituição, Justiça e Redação (CCJR), Camargo também é titular neste biênio 2023/2024 na Comissão de Educação e Cultura, Comissão de Direitos Humanos e na Comissão de Fiscalização e Controle, sendo o parlamentar que mais participa das comissões permanentes da Casa de Leis. Filiado ao Republicanos, é líder da bancada do partido na Assembleia Legislativa.",
+      "contatos": {
+        "email": "depdelegadocamargo@ale.ro.gov.br",
+        "telefone": ""
+      },
+      "rede": {
+        "facebook": "https://www.facebook.com/rodrigocamargoribeiro",
+        "instagram": ""
+      },
+      "ultimas_noticias": [
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/e49bb1e5ae7b4ea2938cc5c42398aaec.jpeg",
+          "data": "22/08/2024",
+          "descricao": "Delegado Camargo pede asfaltamento do B-40 entre Monte Negro e Alto Paraíso"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/0bc816fa1ead444db99cc31e74208484.jpg",
+          "data": "19/08/2024",
+          "descricao": "Missa na Assembleia pede proteção aos servidores da segurança pública de Rondônia"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/aadfeab7ccee4848b5e833148bba0507.jpg",
+          "data": "19/08/2024",
+          "descricao": "Emenda parlamentar do Delegado Camargo viabiliza compra de camas hospitalares elétricas e autoclave"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/5496faf64ea147ec9a76566c37d4f5ab.jpg",
+          "data": "14/08/2024",
+          "descricao": "Delegado Camargo destina R$ 100 mil para compra de tablets aos agentes comunitários de saúde de Cacoal"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/2c052d0e2bdf40018b594c32f5b96372.jpg",
+          "data": "07/08/2024",
+          "descricao": "Palestra do deputado Delegado Camargo mobiliza produtores rurais durante a Expoari"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/bf8273866119428ba3789310aeec360f.jpg",
+          "data": "28/07/2024",
+          "descricao": "Deputado Delegado Camargo recebe a população no gabinete móvel na 39° Expoari"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/f0f32e58147a4acbba44304857d00083.jpg",
+          "data": "26/07/2024",
+          "descricao": "Delegado Camargo tem indicação atendida para recuperação da RO-140"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/021e441240b04dfcbba0592a5934ed0b.jpg",
+          "data": "09/07/2024",
+          "descricao": "Lei de autoria do deputado Delegado Camargo garante acesso de cães-de-terapia e assistência em locais públicos e privados"
+        }
+      ]
+    }
+    ,
+    {
+      "id": 290,
+      "nome_parlamentar": "Delegado Lucas",
+      "nome_completo": "Lucas Torres Ribeiro",
+      "fotografia": "https://www.al.ro.leg.br/media/avatar_parlamentar/delegado_lucas_torres.jpg.200x200_q100_crop.jpg",
+      "partido": "PP",
+      "biografia": "Lucas Torres Ribeiro, filho de Lêda Maria Torres e Benedito Marcilio Paiva Ribeiro, é natural de Fortaleza (CE) e chegou a Rondônia no mesmo ano de seu nascimento, em 1986. Na infância morou em Porto Velho e depois também residiu em Pimenta Bueno. Aos 23 anos, quando cursava Direito, Lucas foi aprovado no concurso da Polícia Civil e a convocação para o cargo de delegado veio logo após sua formatura aos 24 anos. Buritis (RO) tornou-se sua residência oficial por causa do trabalho, depois de ser nomeado para comandar a 1ª Delegacia da Polícia Civil da cidade. À época, o município era o 5º mais violento do país no índice de homicídios. Diante da rotina e vivência com a população acolhedora, Lucas criou laços na cidade e fixou moradia permanente. Já são mais de dez anos morando em solo buritisense, onde casou com Carlini Beltramini Ribeiro e se tornou pai da Helena e do pequeno Dante. Lucas é bacharel em Direito e pós-graduado em Penal e Processo Penal. No serviço público também já trabalhou no Instituto Brasileiro de Geografia e Estatística (IBGE), na Procuradoria Geral do Estado (PGE) e no Ministério Público Estadual tanto em Rondônia quanto em Mato Grosso. Em mais de uma década como servidor público, Lucas nunca teve processo cível, administrativo ou criminal em sua ficha. Mas sua vida no mercado de trabalho começou bem antes do serviço público. As experiências profissionais foram desde empresa de construção civil até atendente em lan house e telemarketing. Em 2022, Lucas disputou eleições pela 1ª vez, pelo partido Progressistas (PP), e foi eleito deputado estadual com 14.298 votos. Ele foi o 1º morador de Buritis a ocupar uma cadeira parlamentar na Assembleia Legislativa. A segurança pública é uma pauta natural no mandato de Lucas, que busca mais segurança aos rondonienses e valorização dos servidores das forças policiais. O parlamentar também terá um olhar diferenciado para as necessidades de Buritis e região, sejam elas na agricultura, saúde, esporte, entre outras.",
+      "contatos": {
+        "email": "gabdeplucastorres@ale.ro.gov.br",
+        "telefone": ""
+      },
+      "rede": {
+        "facebook": "",
+        "instagram": "https://www.instagram.com/delegadolucastorres"
+      },
+      "ultimas_noticias": [
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/bc143aaab570432fb5659670ab36ae30.jpg",
+          "data": "24/08/2024",
+          "descricao": "Emenda de R$ 150 mil é liberada para veículo à Farmácia Básica de Mirante da Serra"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/16377bd8d5ed4f44951f544600783800.jpg",
+          "data": "14/08/2024",
+          "descricao": "Indicação pede estadualização de linha rural entre Buritis e Campo Novo de Rondônia"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/b72a46094f3c4e3fa0f6290cf995822f.jpg",
+          "data": "07/08/2024",
+          "descricao": "Piso salarial da enfermagem: Delegado Lucas solicita implantação no sistema prisional"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/7a6fa35020144047a275b524b7e31fa3.JPG",
+          "data": "31/07/2024",
+          "descricao": "Pimenta Bueno recebe R$ 100 mil para cirurgias de catarata e pterígio"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/4f9256c2871846bcaf3db9b3c8c9454c.JPG",
+          "data": "30/07/2024",
+          "descricao": "Emenda do Delegado Lucas garante motos novas a agentes de saúde de Rio Crespo"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/bea3f356af414e69af00a9bc0c193ba5.jpg",
+          "data": "18/07/2024",
+          "descricao": "Buritis: Delegado Lucas solicita inclusão da linha rural em rota de ônibus escolar"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/0293824c1f0f4ce992d37cf9b4cbbd9e.jpg",
+          "data": "11/07/2024",
+          "descricao": "Jacinópolis: Emenda de R$ 1 milhão do Delegado Lucas garante patrolamento e cascalhamento"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/355229cab3954274adede87ffe20132a.jpg",
+          "data": "09/07/2024",
+          "descricao": "Buritis recebe emenda de R$ 1 milhão para bloqueteamento de ruas"
+        }
+      ]
+    }
+    ,
+    {
+      "id": 293,
+      "nome_parlamentar": "Dra. Taíssa",
+      "nome_completo": "Taíssa da Silva Sousa",
+      "fotografia": "https://www.al.ro.leg.br/media/avatar_parlamentar/dra_taissa.jpg.200x200_q100_crop.jpg",
+      "partido": "PODEMOS",
+      "biografia": "De família batalhadora, simples humilde, nasceu Taissa Sousa em 27 de junho de 1989, no município de Nova Mamoré (RO). Após alguns anos, mudou-se para Guajará-Mirim com sua família onde foi criada. Anos depois retornou para sua cidade natal. Estudou em escola pública nos dois municípios. Desde pequena sempre ajudou sua mãe com os afazeres de casa, e aos 12 anos, começou a ganhar seu primeiro dinheirinho lavando roupas. Quando completou 15 anos, iniciou um novo trabalho: vendedora de roupas. Taissa seguiu no ramo com ajuda da mãe que já trabalhava alguns anos na área, depois seguiu sozinha. Ao terminar o ensino médio em Nova Mamoré, com 17 anos Taissa saiu de casa para estudar. Seu sonho era fazer faculdade e buscar um futuro melhor. Saiu de Nova Mamoré e prestou três vestibulares para as áreas de Jornalismo, Arquitetura e Direito, em Porto Velho (RO). Ao ser aprovada nos três, escolheu estudar Direito. Taissa deixou a sua família e foi morar sozinha em Porto Velho em busca de concretizar seu sonho de ser a primeira da família a conquistar um curso superior, uma nova oportunidade de vida. Alugou um apartamento, comprou alguns móveis e seguiu seu caminho com muita dedicação. Logo depois que entrou na faculdade de direito, conseguiu um trabalho de faxineira para seu sustento. Depois de distribuir vários currículos pela cidade, conseguiu uma oportunidade para estagiar em um escritório de advocacia. Em 2010 passou no concurso da Polícia Militar do Estado de Rondônia (PM-RO), ficando na 23ª posição, de oito mil candidatos. Neste mesmo ano, conheceu seu atual esposo com quem passou a morar e dividir a vida junto. Com anos de estudos, Taíssa não parou mais de prestar concursos para a área em que estudava. Se tornou uma fiel concurseira, sempre com o objetivo de alcançar lugares melhores. Ao se aventurar no mundo dos estudos e dos concursos, Taíssa teve a oportunidade de conhecer todo o país de Norte a Sul. No 9º período de direito, passou na Ordem dos Advogados do Brasil (OAB). Taíssa sempre teve o sonho de retornar para sua terra natal e, antes de terminar os estudos, começou a voltar para Guajará-Mirim e Nova Mamoré gradativamente. Teve novos contatos e conseguiu um novo trabalho em um escritório de advocacia de Nova Mamoré. Quase três anos depois, já formada em direito, pediu exoneração da Polícia Militar e decidiu mergulhar no mundo da advocacia. Por três anos, Taíssa trabalhou nos três municípios: Guajará-Mirim, Nova Mamoré e Porto Velho. A advogada atua na área trabalhista, criminal, familiar, civil e previdenciário. Além de amar sua profissão, Taíssa sempre teve um olhar voltado para o lado social. Tem se dedicado há 10 anos em trabalhos sociais, em projetos voltados a ajudar famílias em vulnerabilidade socioeconômica, em projetos de qualidade de vida para idosos, apoio a dependentes químicos e alcoólicos, apoio às pessoas em situação de rua, amparo às crianças, apoio às mulheres vítimas de violência, educação de jovens, cuidado e preservação do meio ambiente, defesa dos indígenas, combate à pobreza, combate ao abuso infantil, melhorias de infraestrutura da cidade, empoderamento feminino, inclusão de pessoas com deficiência, incentivo à leitura, entre outros. Seu sonho sempre foi buscar mais e ajudar a proporcionar melhor qualidade de vida às famílias da cidade de Guajará-Mirim, aldeias e distritos. Atualmente é autora de vários projetos executados na cidade. Aquela jovem baixinha, inexperiente, sonhadora, de olhos e cabelos castanhos e cumpridos, hoje se tornou uma grande mulher. Ela é corajosa, forte, guerreira e muito esforçada. Está casada há 14 anos, é advogada com pós-graduação em Direito do Trabalho e Processo do Trabalho, atleta amadora, palestrante, mãe de dois filhos. Gosta de ler, de praticar esportes, de fazer amizades, ajudar o próximo e, principalmente, ama estar em família. Em 2020 devido a vários convites colocou seu nome a disposição como candidata a Prefeita de Guajará-Mirim/RO, em uma eleição de 10 candidatos foi extremamente bem votada, tornando-se um destaque jovem na política local. Em 2022 colocou o nome a disposição como candidata a Deputada Estadual para representar o estado de Rondônia, e principalmente a região do madeira Mamoré, e sendo a mais jovem mulher eleita Deputada do Estado de Rondônia.'A política é o melhor jeito de fazer justiça social. Nós vivemos em uma região de grande pobreza, com falta de expectativa de vida. As coisas podem ser feitas de uma forma diferente. Eu tenho lutado muito por uma cidade melhor e sei que se cada um fizer sua parte, tudo será diferente. Temos que praticar o amor, ir atrás de nossos direitos e buscar por justiça. Amo minha cidade e quero poder sempre contribuir com minha comunidade. Se nós fizermos o simples, amenizaríamos muito sofrimento - Taissa Sousa.'",
+      "contatos": {
+        "email": "gabdeptaissasousa@ale.ro.gov.br",
+        "telefone": ""
+      },
+      "rede": {
+        "facebook": "",
+        "instagram": "https://www.instagram.com/drataissasousa"
+      },
+      "ultimas_noticias": [
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/cd1704b2c65f4f7eb4a879504c61a864.jpg",
+          "data": "22/08/2024",
+          "descricao": "Dra Taíssa destina emenda para participação da equipe de ciclismo na Copa Norte-Nordeste"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/25d94960c4c24362bbcdd4fdbe5512b9.jpg",
+          "data": "21/08/2024",
+          "descricao": "Dra. Taíssa solicita estudo técnico para regularização fundiária em bairros de Guajará-Mirim"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/d871cb6027334287bfc28f2a1a4249d9.jpg",
+          "data": "20/08/2024",
+          "descricao": "Emenda da Dra. Taíssa contempla equipes indígenas com uniformes e materiais esportivos"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/237cbe34273848ccac1819e2928556fd.jpeg",
+          "data": "15/08/2024",
+          "descricao": "Dra. Taíssa visita a maternidade do Hospital de Base e ouve as demandas de servidores e pacientes"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/a33a06eda3d64dc0af447a5277157275.jpg",
+          "data": "15/08/2024",
+          "descricao": "Dra. Taíssa solicita contratação de professores para escola César Freitas Cassol, em União Bandeirantes"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/6477ff9a219049aca6bd12fa3f07ae6b.jpg",
+          "data": "13/08/2024",
+          "descricao": "Dra. Taíssa entrega maquinários à Associação dos Produtores Rurais Independentes de Guajará-Mirim"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/1d05ed342d9b41f7b9ff64bcdc1158a3.jpg",
+          "data": "13/08/2024",
+          "descricao": "Dra. Taíssa solicita revitalização do Palanque em Guajará-Mirim"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/e62f9dedc9324b06833b6b397e71f3af.jpg",
+          "data": "13/08/2024",
+          "descricao": "Dra. Taíssa participa da abertura dos Jogos Escolares de Rondônia na Região Mamoré"
+        }
+      ]
+    }
+    ,
+    {
+      "id": 294,
+      "nome_parlamentar": "Edevaldo Neves",
+      "nome_completo": "Edevaldo Marcolino Neves",
+      "fotografia": "https://www.al.ro.leg.br/media/avatar_parlamentar/edevaldo_neves_1P019Y7.jpg.200x200_q100_crop.jpg",
+      "partido": "PRD",
+      "biografia": "Sem biografia",
+      "contatos": {
+        "email": "gabdepedevaldoneves@ale.ro.gov.br",
+        "telefone": ""
+      },
+      "rede": {
+        "facebook": "",
+        "instagram": "https://www.instagram.com/edevaldonevesoficial"
+      },
+      "ultimas_noticias": [
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/848d2e0752814a55823176688ef3ce89.jpg",
+          "data": "13/08/2024",
+          "descricao": "Edevaldo Neves solicita ação imediata do Governo para combater a criminalidade em Rondônia"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/ecb329f84f194714b58e6ecb9ccfe6c0.jpg",
+          "data": "07/08/2024",
+          "descricao": "Edevaldo Neves requer informações sobre descumprimento de portaria em missões de policiais penais"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/8688cf9f444b4affb31c92a24ff9712c.JPG",
+          "data": "31/07/2024",
+          "descricao": "Edevaldo Neves critica forma com que os policiais penais são tratados por secretário da Sejus"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/9554634e1f354cf394bec061c4478f49.JPG",
+          "data": "30/07/2024",
+          "descricao": "Edevaldo Neves requer manutenção da rede de abastecimento de água no residencial Cristal da Calama"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/b2f10b8547484aa9a4942b8f6f36eb6c.JPG",
+          "data": "29/07/2024",
+          "descricao": "Edevaldo Neves requer ações do governo para enfrentamento da criminalidade em Rondônia"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/dae16930d7c04c718bebd8636f160e87.jpg",
+          "data": "26/07/2024",
+          "descricao": "Edevaldo Neves solicita informações sobre plano de ação para enfrentamento da estiagem"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/a715600dd8644afba7e5fad69fcc8542.jpg",
+          "data": "25/06/2024",
+          "descricao": "Edevaldo Neves requer repavimentação da RO-473"
+        },
+        {
+          "fotografia": "https://www.al.ro.leg.br/media/fotos_capa_noticia/2ab0c496a7024fe38b10d77deb140bce.jpg",
+          "data": "29/05/2024",
+          "descricao": "Edevaldo Neves requer informações sobre concurso público para o Corpo de Bombeiros Militar de RO"
+        }
+      ]
+    }
+  ]
+}
